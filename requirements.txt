@@ -5,3 +5,4 @@ langchain-tavily
 pydantic
 tavily-python
 python-dotenv
+streamlit
