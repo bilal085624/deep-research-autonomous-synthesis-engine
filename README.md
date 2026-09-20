@@ -18,5 +18,5 @@ A production-grade AI orchestration loop built with **LangGraph** and **Streamli
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/bilal085624/deep-research-autonomous-synthesis-engine.git](https://github.com/bilal085624/deep-research-autonomous-synthesis-engine.git)
+   git clone https://github.com/bilal085624/deep-research-autonomous-synthesis-engine.git
    cd deep-research-autonomous-synthesis-engine
